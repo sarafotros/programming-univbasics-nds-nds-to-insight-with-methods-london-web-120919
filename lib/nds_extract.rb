@@ -4,10 +4,12 @@ require 'directors_database'
 # The return value should be like:
 #
 # { directorOne => allTheMoneyTheyMade, ... }
+require 'pp'
 
+pp nds
 def directors_totals(nds)
   result = {}
-  nil
+  
 end
 
 # Find a way to accumulate the :worldwide_grosses and return that Integer
