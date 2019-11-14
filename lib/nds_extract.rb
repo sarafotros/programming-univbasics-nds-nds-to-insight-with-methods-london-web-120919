@@ -12,7 +12,7 @@ require "pry"
 def directors_totals(nds)
   binding.pry 
   result = {}
-  
+  directors_index = 0 
   
   
   
