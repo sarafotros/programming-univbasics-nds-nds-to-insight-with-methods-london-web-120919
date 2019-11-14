@@ -20,7 +20,7 @@ def directors_totals(nds)
     total[director_name] = 0 
     movie_index = 0 
     
-    while 
+    while movie_index < nds.
     
     result[director_name]
     
