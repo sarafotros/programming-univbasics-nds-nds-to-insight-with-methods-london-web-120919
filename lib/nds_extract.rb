@@ -7,6 +7,8 @@ require 'directors_database'
 require 'pp'
 
 pp nds
+
+require 
 def directors_totals(nds)
   result = {}
   
