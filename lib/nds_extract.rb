@@ -8,7 +8,7 @@ require 'pp'
 
 pp nds
 
-require 
+require pry 
 def directors_totals(nds)
   result = {}
   
